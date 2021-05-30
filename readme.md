@@ -3,8 +3,8 @@
 $ docker-compose up -d --build
 ```
 
-# GRPC centric server
+# gRPC centric server
 
-# GRPC centric plugin api
+# gRPC centric plugin api
 
-# GRPC centric clients
+# gRPC centric clients
