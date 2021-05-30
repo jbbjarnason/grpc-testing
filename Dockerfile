@@ -8,6 +8,7 @@ RUN apt-get update && apt-get install -y \
     libgrpc++-dev \
     libasio-dev \
     openssh-server \
+    git \
     rsync
 
 RUN ( \

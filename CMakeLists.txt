@@ -31,3 +31,4 @@ target_link_libraries(GRPC_SERVER
         pthread
 )
 
+add_subdirectory(tests)
